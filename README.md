@@ -41,5 +41,5 @@
 </p>
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=spacebod">
+  <img src="https://komarev.com/ghpvc/?username=spacebod&color=orange">
 </p>
