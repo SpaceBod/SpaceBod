@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi, I'm Gian-Luca!
+  Hi, I'm Luca!
 </h1>
 
 <p align='center'>
